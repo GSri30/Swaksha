@@ -1,0 +1,6 @@
+[submodule "swaksha-frontend"]
+	path = swaksha-frontend
+	url = https://github.com/Pratik-ahirrao/swaksha-frontend.git
+[submodule "swaksha-backend"]
+	path = swaksha-backend
+	url = https://github.com/lalith-krg/swaksha-backend.git
